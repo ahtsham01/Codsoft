@@ -1,4 +1,4 @@
-# Codsoft
+# CODSOFT
 DATA SCIENCE
 
 For the Data Science internship, you will need to complete at least
